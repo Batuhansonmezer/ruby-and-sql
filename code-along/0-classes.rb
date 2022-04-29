@@ -5,4 +5,10 @@
 
 # String Class
 
+brains_food = "tacos"
+bens_food = "sushi"
+
+puts brains_food.length
+puts bens_food.length
+
 # String Methods
